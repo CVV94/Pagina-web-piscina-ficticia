@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1100px;
+}
+
+/* Estilo base para el header */
+header {
+    background-image: url('./assets/images/fondoNatacion.png');
+    background-size: cover;
+    height: 1300px;
+    max-width: 100%;
+    position: relative;
+  }
+  
+  
+
+.title{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    position: absolute;
+    top: 50%;
+    transform:translateY(-50%);/*sirve para posicionar el elemnto en el medio Y*/
+}
+
+.title button{
+    background-color: rgb(247, 7, 7);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.Logo{
+    width: 120px;
+}
+
+.cursos{
+    background: #00416A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.h1{
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(14, 15, 30);
+}
+
+.row{
+    margin: 0px;  /*Reinicia las filas sin margen*/
+}
+
+
+/* carrucel */
+
+.carrucel img{
+    height: 700px;
+    background-color: #084625;
+
+}
+
+/* tarjetas */
+.card{
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 18rem;
+    
+}
+.card-title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+.card-text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* nosotros */
+
+
+.nosotros{
+    margin-top: 60px;
+    background: #00416A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+.imgNosotros{
+    height: 300px;
+    width: 100%;
+}
+
+/* Acordion nosotros */
+
+
+.accordion h1{
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.accordion-body{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Contactos */
+.contacto{
+    background: #00416A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.contacto h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contacto h5{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 4px;
+}
+.form-control{
+    border-radius: 50px;
+    
+}
+
+.botonEnviar{
+    background-color: rgb(247, 7, 7);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
