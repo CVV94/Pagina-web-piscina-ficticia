@@ -13,6 +13,7 @@ import CarrucelFragment from './fragments/carrucelFragment';
 import AcordionFragment from './fragments/acordionFragment';
 import ContactoFragment from './fragments/contactoFragment';
 import NavegacionFragment from './fragments/navegacionFragment';
+import FooterFragment from "./fragments/footerFragment";
 
 const EscuelaDeNatacion = () => {
   return (
@@ -20,12 +21,16 @@ const EscuelaDeNatacion = () => {
         <header>
           <NavegacionFragment
               imagen={Logo}
-              enlace1="Principal"
+              enlace1=""
               enlace2="Nuestros Cursos"
               enlace3="Nosotros"
               enlace4="Contacto"
-              enlace5="Actividades"
+              enlace5="Menú"
+              subEnlace1="Nuestras Instalaciones"
+              subEnlace2="Nuestros Intructores"
               subEnlace3="Calculando el Factorial"
+              Link1="/Instalaciones"
+              Link2="/Instructores"
               Link3="/Factorial"
           />
 
@@ -122,45 +127,8 @@ const EscuelaDeNatacion = () => {
         </main>
 
         <footer>
-            <div className="container">
-                <div className="row"> 
-                    <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 "> 
-                        <h4>Horario de Atencion</h4>
-                        <div className="mb-3"> 
-                            <p>Lunes a viernes: 10:00 a 19:00 <br/>
-                                Atención presencial y telefónica <br/>
-                                Sábado: 10:00 a 13:00 <br/>
-                                Domingo y festivos: cerrado</p>
-                        </div>
-
-                    </div>
-                    <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6 ">
-                        <div className="mb-3">
-                            <h4>Contactenos</h4>
-                            <div className="d-flex "> 
-                                <span className="material-symbols-rounded">
-                                    call
-                                </span>
-                                <p>+569 75188822 </p> 
-                            </div>
-                            <div className="d-flex">
-                                <span className="material-symbols-rounded">
-                                        home
-                                </span>
-                                <p>Av. Balmaceda 1204,Calama</p>
-                                
-                            </div>
-                            <div className="d-flex">
-                                <span className="material-symbols-rounded">
-                                    mail
-                                </span>
-                                <p>carlos.vasquez41@inacapmail.cl</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </footer>
+            <FooterFragment/>
+        </footer>
 
     </>
   );

@@ -8,15 +8,14 @@
 }
 
 /* Estilo base para el header */
-header {
+header{
     background-image: url('./assets/images/fondoNatacion.png');
     background-size: cover;
     height: 1300px;
     max-width: 100%;
     position: relative;
-  }
-  
-  
+}
+
 
 .title{
     color: rgb(255, 255, 255);
@@ -144,9 +143,11 @@ header {
     padding-right: 20px;
 }
 
-footer{
+.footer{
     background: #000000;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color: white;
+    color: #ffffff;
+    justify-content: center;
+    width: 100%;
 }
