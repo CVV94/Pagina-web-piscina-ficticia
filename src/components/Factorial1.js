@@ -66,7 +66,7 @@ function Factorial({ inputType, label }) {
                 </select>
               </div>
           )}
-              <Button variant="primary" size="md" active className={style.btn}> Calcular Factorial</Button>
+              <Button variant="primary" size="md" active className={style.btn} onClick={calcularFactorial}> Calcular Factorial</Button>
 
           <p>{factorial}</p>
         </div>

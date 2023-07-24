@@ -5,41 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb38018a-1356-4e2a-87f9-146388612254" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Factorial.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instalaciones/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instructores/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fragments/footerFragment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fragments/instalacionesCarrucelFragment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/fragments/instructoresFragment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/instalaciones.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/instructores.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorial.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/instalaciones.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/instructores.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Factorial1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Factorial1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/base.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/fragments/cursosFragment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/fragments/cursosFragment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/fragments/navegacionFragment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/fragments/navegacionFragment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +112,9 @@
       <workItem from="1690048915382" duration="259000" />
       <workItem from="1690049185223" duration="24000" />
       <workItem from="1690049219372" duration="145000" />
-      <workItem from="1690049373374" duration="36138000" />
+      <workItem from="1690049373374" duration="36809000" />
+      <workItem from="1690134310879" duration="75000" />
+      <workItem from="1690214965756" duration="460000" />
     </task>
     <servers />
   </component>
